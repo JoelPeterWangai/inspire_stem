@@ -1,0 +1,7 @@
+print("My name is Joel Peter")
+print("I am 18 years old")
+print("I am from KIsumu county")
+print("I like playing FIFA")
+print("---------")
+print("*********")
+print("##########")
