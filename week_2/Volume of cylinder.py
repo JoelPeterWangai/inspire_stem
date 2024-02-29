@@ -1,4 +1,4 @@
-# Programme to solve volume of a sphere
+# Programme to solve volume of a cylinder
 # Date : 20/02/2024
 # Name : Joel Peter
 
@@ -9,4 +9,5 @@ h = float(input("enter height value "))
 x = (p * r**2 *h)
 
 print("The volume of the cylinder is :", x)
+
 

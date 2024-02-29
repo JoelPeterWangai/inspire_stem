@@ -14,3 +14,5 @@ print("The increased salary is : ", increased_salary)
 dec = 5000
 new_bonus = (bonus - dec)
 print("New bonus is : ", new_bonus)
+
+

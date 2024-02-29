@@ -1,6 +1,6 @@
 # loops and iterations
 # Date : 22/02/2024
-# NAme : Joel Peter
+# Name : Joel Peter
 
 # for loop
 # while loop

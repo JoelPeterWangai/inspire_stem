@@ -7,7 +7,7 @@ b = float(input (" enter coefficient of second term: "))
 c =float( input("enter constant: "))
 
 d = float(((b)**2) - 4 * (a) * (c))
-
+import math
 x_1 =( (-b + math.sqrt(d)) / 2 * a)
 x_2 =( (-b - math.sqrt(d)) / 2 * a)
 
