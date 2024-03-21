@@ -1,0 +1,31 @@
+section{
+    background-color:bisque ;
+    color:red;
+
+
+}
+img{
+    width : 10cm;
+    height : 10cm;
+}
+.header-1{
+    color: brown;
+}
+.ball{
+    background-color: peru;
+    height:50px;
+    width:50px
+}
+#bouncing{
+    position:absolute;
+}
+body{
+    margin: 0;
+    padding:0;
+    height:100vh;
+
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
